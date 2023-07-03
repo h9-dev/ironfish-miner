@@ -1,2 +1,2 @@
 # Ironfish Miner
-More details see https://github.com/hpool-dev/ironfish-miner/releases
+More details see https://github.com/h9-dev/ironfish-miner/releases
